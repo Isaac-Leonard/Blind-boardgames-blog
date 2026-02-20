@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm Isaac, a blind board gamer, from Australia.
+I'm Isaac, a blind board gamer from Australia.
 I have been playing board games since the start of 2020 and much much earlier if you count games like chess and scrabble.
 As I am totally blind however, every game I have played has had to be accessible so I could properly play it.
 For some games, like the aforementioned chess and scrabble, there are already accessible versions available to be purchased though generally at an exorbitant price.
-For others like battle ship, zomby dice or Santorini, the games are pretty much fully accessible by default.
+For others like Battleship, Zombie Dice or Santorini, the games are pretty much fully accessible by default.
 
 Most board games however need to be modified to enable me to play them.
 For some games like skull the modifications are very simple, simply poking a small hole in one of the skull cards is enough to enable me to play the game on a level with any other sighted player.
