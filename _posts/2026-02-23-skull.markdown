@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Skull"
-date:   2026-02-26 +1100
+date:   2026-02-23 +1100
 categories: bluffing
 ---
 Skull is a quick and simple game of bluffing and pushing your luck.
