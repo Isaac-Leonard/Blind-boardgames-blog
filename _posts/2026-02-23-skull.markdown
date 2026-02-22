@@ -2,23 +2,39 @@
 layout: post
 title:  "Skull"
 date:   2026-02-23 +1100
-categories: bluffing
+categories: Bluffing "Push your luck"
 ---
 Skull is a quick and simple game of bluffing and pushing your luck.
+
 Each player has 4 cards, three of which show a flower and one of which shows a skull.
+
 The game begins by each player secretly selecting one of their cards to place down face down in front of them.
+
 Once each player has placed one card down players will take turns either placing another card down in front of them or starting the betting.
+
 Players will bet how many cards on the table they can flip before flipping a skull with the requirement that they must flip their own first.
+
 Once a player bets, no more players are able to place down a card, instead players in order from the one that started the betting will either choose to raise the bet or pass.
+
 Once all but one players have passed, the last player to raise the bet must attempt to flip the number of cards that they bet starting with their own without flipping a skull.
+
 If they succeed they get a point but if they lose, they must lose one of their cards at random and place it face down to the side so no one knows if they have lost their skull or not.
+
 The first player to get two points or the last player to be left with cards wins the game.
 
+## Accessibility
 This game was incredibly simple to make accessible.
-All I had to do to make the game playable for me is poke small holes through the eyes or center of one of the skull cards.
-When playing the game, I ensure I get the set of cards with the holes in the skull so I can distinguish between my cards.
+
+All that was needed to make the game playable for me was poking small holes through the center of one of the skull cards.
+
+In a friends copy, before I bought the game for myself, we poked holes in the eyes of one of the skulls instead which worked just as well.
+
+When playing the game, I ensure that I have the set of cards with the holes in the skull so I can distinguish between my cards.
+
 When flipping other peoples skulls it is simple enough for them to tell me what I have flipped, though I can generally tell anyway from the reaction of the table.
 
 This game is honestly so simple and easy to make fully accessible for me that there isn't much more to say other then that this is a great game and you should totally play it if you get the chance.
+
 If you can't get the official game, it is easy enough to improvise your own copy using a regular deck of cards or drink coasters.
+
 The roomer I have heard, though I've no clue if it's true, is that this game originated from Mexican gangs coming up with games to play with what they had at hand at the pub such as coasters.
