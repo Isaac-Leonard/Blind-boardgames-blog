@@ -2,7 +2,7 @@
 layout: post
 title:  "Skull"
 date:   2026-02-23 +1100
-categories: Bluffing "Push your luck"
+categories: [Bluffing, "Push your luck", "No Braille", "Minimal adjustments"]
 ---
 Skull is a quick and simple game of bluffing and pushing your luck.
 
