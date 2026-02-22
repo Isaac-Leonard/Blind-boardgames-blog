@@ -49,3 +49,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Let the blog publish posts with dates set in the future
+# This shouldn't be needed but I think might be as I'm not specifying times on my posts
+future: true
